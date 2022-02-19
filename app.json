@@ -1,7 +1,7 @@
 {
   "title": "kssk appgen",
   "dbname": "ksskAppgen",
-  "dbtype": "mssql",
+  "dbtype": "mysql",
   "config": {
     "menuType": "topMenu"
   },
