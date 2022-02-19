@@ -1,0 +1,19 @@
+{
+  "title": "kssk appgen",
+  "dbname": "ksskAppgen",
+  "dbtype": "mssql",
+  "config": {
+    "menuType": "topMenu"
+  },
+  "mainMenu": [
+    {
+      "label": "Start",
+      "submenu": [
+        {
+          "label": "Start",
+          "target": "start"
+        }
+      ]
+    }
+  ]
+}
